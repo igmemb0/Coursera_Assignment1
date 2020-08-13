@@ -41,3 +41,6 @@ void main() {
 }
 
 /* Add other Implementation File Code Here */
+float find_mean(unsigned char test[], int size)
+{
+}
