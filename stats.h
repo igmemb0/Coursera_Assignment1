@@ -95,7 +95,7 @@ float find_minimum(unsigned char test[], int size);
  *
  * @return nothing
  */
-void print_statistics(float mean, float median, int max, int min);
+void print_statistics(float mean, float median, float max, float min);
 
 
 /**
